@@ -228,25 +228,43 @@
 
     *Failure*: Failing to utilize the microbes' unique properties or integrate them effectively results in a missed opportunity, costing -2 resource points.
 
-16. **Mysterious Icy Formation (Curiosity - Level 8) [Resource Loss][RED]**
+16. **Icy Structure Investigation** [Resource Gain][<span style="color:green">Green</span>]
 
-* Challenge: A curious icy structure is discovered, but insufficient curiosity could result in its potential value being overlooked.
-* Consequence: Without adequate curiosity, the crew doesn't explore the formation's true value, missing out on a +5 resource point gain.
+    *Description*: The crew identifies an unusual icy formation on Europa's surface. Its unique properties suggest potential utility for the mission, but it requires a thorough investigation to uncover its true value.
 
-17. **Survival Retreat (Adaptability) [Opportunity To Learn][BLUE]**
+    *Skill Requirement*: **Curiosity Level 7**
 
-* Cost: -2 resource points.
-* Result: +1 to Adaptability skill.
+    *Outcome*: Delving deeper into the properties of the icy structure, the crew discovers it can be harnessed for various mission applications, leading to a gain of +5 resource points.
 
-18. **Optimize Underwater Equipment (Engineering - Level 6) [Resource Gain][GREEN]**
+    *Failure*: Overlooking the significance of the formation or failing to investigate it adequately results in a missed opportunity, costing -2 resource points.
 
-* Gain: +4 resource points.
-* Failure: -2 resource points.
+17. **Underwater Tech Enhancement** [Resource Gain][<span style="color:green">Green</span>]
 
-19. **Contamination Scare in the Subsurface Ocean (Science - Level 6) [Resource Loss][RED]**
+    *Description*: With the vast subsurface ocean of Europa awaiting exploration, the crew focuses on refining and optimizing their underwater equipment to ensure maximum efficiency and data collection.
 
-* Challenge: A potential bio-contamination in the subsurface ocean requires immediate attention.
-* Consequence: Isolation and sterilization protocols enacted, -5 resource points.
+    *Skill Requirement*: **Engineering Level 7**
+
+    *Outcome*: Successful enhancements lead to more effective underwater expeditions and valuable data acquisition, granting +4 resource points.
+
+    *Failure*: Overlooking crucial engineering aspects can lead to equipment malfunctions, resulting in a loss of -2 resource points.
+
+18. **Europa Survival Workshop** [Opportunity To Learn][<span style="color:blue">Blue</span>]
+
+    *Description*: Given the harsh conditions of Europa, the crew participates in a workshop focused on survival techniques tailored for the moon's unique environment.
+
+    *Cost*: -2 resource points for workshop materials and expert guidance.
+
+    *Outcome*: Crew members enhance their adaptability to Europa's challenges, improving their chances of mission success. Gain +1 to the Adaptability skill.
+
+19. **Bio-Contamination Alert** [Resource Loss][<span style="color:red">Red</span>]
+
+    *Description*: During an exploration of Europa's subsurface ocean, the crew detects possible bio-contaminants that could jeopardize the mission's scientific integrity and the safety of the habitat.
+
+    *Skill Requirement*: **Science Level 7**
+
+    *Outcome*: Swift identification and containment of the contaminant ensures the safety of the crew and the integrity of collected samples. If not addressed, the contamination spreads, triggering extensive decontamination procedures.
+
+    *Failure*: Inadequate response leads to compromised samples and potential risks to the crew's health. The mission incurs a loss of -5 resource points.
 
 20. **Underwater Settlement Endeavor** [Unavoidable][<span style="color:yellow">Yellow</span>]
 
@@ -256,4 +274,4 @@
 
     *Outcome*: If successful in establishing a stable outpost, the mission gains momentum, securing +4 resource points.
 
-    *Failure*: The unpredictable conditions of Europa's ocean hinder progress, costing -5 resource points and limiting exploration opportunities.
+    *Failure*: Without proceeding to this stage, mission is stuck. Retreat the number of steps rolled on the dice.
