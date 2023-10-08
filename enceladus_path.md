@@ -216,9 +216,9 @@
 
     *Skill Requirement*: **Curiosity Level 6**
 
-    *Outcome*: A heightened sense of curiosity leads to sampling the matter, revealing it contains iron and other valuable metals for the colony. +8 resource points.
+    *Outcome*: A heightened sense of curiosity leads to sampling the matter, revealing it contains iron and other valuable metals for the settlement. +8 resource points.
 
-    *Failure*: Patch is remained unnoticed, making further colonization expansion impossible due to lack of raw materials. Retreat the number of steps rolled on the dice.
+    *Failure*: Patch is remained unnoticed, making further settlement expansion impossible due to lack of raw materials. Retreat the number of steps rolled on the dice.
 
 16. **Plume Kinetic Energy Harnessing** [Resource Gain][<span style="color:green">Green</span>]
 
@@ -262,12 +262,12 @@
 
     *Failure*: Inadequate response escalates the contamination risk, jeopardizing crew health and mission integrity. -5 resource points due to the initiation of quarantine protocols.
 
-20. **Subsurface Colony Establishment** [Unavoidable][<span style="color:yellow">Yellow</span>]
+20. **Subsurface Settlement Establishment** [Unavoidable][<span style="color:yellow">Yellow</span>]
 
-    *Description*: As the final and pivotal step in colonizing Enceladus, the mission focuses on establishing a sustainable habitat within its subsurface regions, ensuring protection from the harsh surface conditions and potential access to subsurface water sources.
+    *Description*: As the final and pivotal step in building settlements Enceladus, the mission focuses on establishing a sustainable habitat within its subsurface regions, ensuring protection from the harsh surface conditions and potential access to subsurface water sources.
 
     *Skill Requirement*: **Adaptability Level 7** - Navigate the unique challenges of subsurface construction, adapt to unforeseen complications, and ensure the habitat is safe and sustainable.
 
-    *Outcome*: Successful establishment of a subsurface base that serves as the cornerstone for future colonization efforts.
+    *Outcome*: Successful establishment of a subsurface base that serves as the cornerstone for future efforts.
 
     *Failure*: Without team being able to work in harsh, difficult conditions and deal with some other inconvenieces, subsurface settlement cannot be successully built. Retreat the number of steps rolled on the dice.

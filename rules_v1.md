@@ -1,6 +1,6 @@
 **Game Rules Summary: Flight Path Board Game**
 
-**Objective:** Embark on a cosmic journey! Establish a thriving colony on your chosen celestial body (Mars, Enceladus, Venus, Titan, Europa) by navigating through a series of galactic challenges and opportunities.
+**Objective:** Embark on a cosmic journey! Establish a thriving settlement on your chosen celestial body (Mars, Enceladus, Venus, Titan, Europa) by navigating through a series of galactic challenges and opportunities.
 
 **Celestial Destinations: The Galactic Five**
 
@@ -72,6 +72,6 @@
     * Each skill can be leveled up to a maximum of 10 points.
     * If a player reaches the maximum level (10 points) in a particular skill and subsequently earns an additional point in that skill, they have the flexibility to assign that extra point to any other skill of their choice. This represents the transferability of knowledge and the adaptability of astronauts in space missions.
 
-**End Goal:** Establish a thriving colony that stands as a testament to human ingenuity and adaptability.
+**End Goal:** Establish a thriving settlement that stands as a testament to human ingenuity and adaptability.
 
-**Game End:** The game concludes when all teams have either established their colonies or faced insurmountable challenges.
+**Game End:** The game concludes when all teams have either established their settlements or faced insurmountable challenges.

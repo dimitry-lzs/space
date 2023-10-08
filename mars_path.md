@@ -155,7 +155,7 @@
 
     *Outcome*: If the team responds swiftly and takes the necessary protective measures, damage is minimized.
 
-    *Failure*: Fail will result in the colony facing reduced operations, compromised equipment, and impaired visibility, leading to a loss of -6 resource points.
+    *Failure*: Fail will result in the settlement facing reduced operations, compromised equipment, and impaired visibility, leading to a loss of -6 resource points.
 
 10. **Enigmatic Martian Stones**[Unavoidable][<span style="color:yellow">Yellow</span>]
 
@@ -169,7 +169,7 @@
 
 11. **Resource Allocation Debate**[Resource Gain][<span style="color:green">Green</span>]
 
-    *Description*: As the mission progresses, a debate arises regarding the optimal use of the gathered resources. Some members of the colony have different priorities, leading to discussions and minor disagreements.
+    *Description*: As the mission progresses, a debate arises regarding the optimal use of the gathered resources. Some members of the settlement have different priorities, leading to discussions and minor disagreements.
 
     *Skill Requirement*: **Problem Solving Level 6**
 
