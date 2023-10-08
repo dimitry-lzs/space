@@ -146,7 +146,7 @@
 
    *Cost*: -2 resource points for organizing the workshop, bringing in virtual experts, and utilizing specialized training modules.
 
-   *Outcome*: Successfully completing the workshop enhances the crew's problem-solving abilities, especially in managing complex social dynamics and maintaining mission cohesion. Gain +1 to the Problem Solving skill.
+   *Outcome*: Successfully completing the workshop enhances the crew's problem-solving abilities, especially in managing complex social dynamics and maintaining mission cohesion. +1 to the Problem Solving skill.
 
 9. **Endurance in Corrosive Conditions** [Resource Loss][<span style="color:red">Red</span>]
 
