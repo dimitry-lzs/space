@@ -1,67 +1,77 @@
 **Game Rules Summary: Flight Path Board Game**
 
-**Objective:** Pioneer the cosmos! Establish a thriving colony on your chosen celestial sphere (Mars, Enceladus, Venus, Titan, Europa) by steering through a maze of galactic challenges and prospects.
+**Objective:** Embark on a cosmic journey! Establish a thriving colony on your chosen celestial body (Mars, Enceladus, Venus, Titan, Europa) by navigating through a series of galactic challenges and opportunities.
 
-**Celestial Destinations: The Cosmic Quintet**
-
-Journey to any of these five celestial realms, each possessing its own unique set of cosmic conundrums, environments, and histories. Here's what awaits you:
+**Celestial Destinations: The Galactic Five**
 
 1. **Mars - The Red Pioneer:**
     * **Challenges:** Thin atmosphere, scarcity of water, and Martian dust storms.
-    * **Unique Events:** Negotiate with ancient Martians for territorial rights, unlock secrets of buried Martian cities, and harness the red sands for sustainable energy.
-    * **Lore:** Once rumored to house extraterrestrial life, Mars holds secrets from eons past. Will you unlock them?
+    * **Unique Events:** Establish a sustainable habitat, explore vast Martian canyons, and harness Martian resources for energy.
+    * **Lore:** Mars, with its red sands and towering mountains, beckons pioneers to uncover its geological secrets and lay the foundation for humanity's next home.
 
-2. **Venus - The Sultry Enigma:**
-    * **Challenges:** Scorching temperatures, thick acidic clouds, and crushing atmospheric pressure.
-    * **Unique Events:** Tame the volcanic landscapes, mine the skies for resources, and construct aerial bases to escape the heat.
-    * **Lore:** Venus, named after the goddess of love, might break your heart with its fierce environment. Yet, her mysteries might be worth the challenges.
+2. **Venus - The Clouded Enigma:**
+    * **Challenges:** Extreme temperatures, thick acidic clouds, and crushing atmospheric pressure.
+    * **Unique Events:** Construct floating bases above the scorching surface, mine the atmosphere for valuable gases, and study the planet's mysterious weather patterns.
+    * **Lore:** Venus, with its intense heat and thick clouds, offers challenges and mysteries in equal measure.
 
 3. **Enceladus - The Icy Enchantress:**
-    * **Challenges:** Extreme cold, hidden oceanic depths, and unpredictable geysers.
-    * **Unique Events:** Dive into the moon's subsurface oceans to discover alien life, extract precious resources from ice caves, and harness geothermal energy.
-    * **Lore:** The snow queen of Saturn's moons, Enceladus hides beneath her icy exterior a heart of warm oceans teeming with possibilities.
+    * **Challenges:** Extreme cold, subsurface oceans, and unpredictable geysers.
+    * **Unique Events:** Dive into the moon's subsurface oceans, extract resources from its icy crust, and study its mysterious geysers.
+    * **Lore:** Enceladus, with its icy exterior, hides a world of possibilities beneath, including potential signs of life.
 
-4. **Titan - The Golden Titan:**
-    * **Challenges:** Methane lakes, dense atmosphere, and gravity anomalies.
-    * **Unique Events:** Sail the methane seas, negotiate with potential indigenous lifeforms, and adapt to its bizarre weather patterns.
-    * **Lore:** Saturn's largest moon, Titan, beckons with golden hued skies and mysteries as vast as its namesake.
+4. **Titan - The Methane Marvel:**
+    * **Challenges:** Methane lakes, dense atmosphere, and extreme cold.
+    * **Unique Events:** Navigate its methane seas, study its unique atmospheric composition, and adapt to its frigid environment.
+    * **Lore:** Titan, Saturn's largest moon, offers a landscape both alien and eerily familiar, with its lakes, rivers, and rains of methane.
 
 5. **Europa - The Ocean's Keeper:**
-    * **Challenges:** Radiation from Jupiter, icy crust, and deep-sea exploration.
-    * **Unique Events:** Penetrate the ice to explore the alien ocean below, harness radiation for energy, and uncover relics of an ancient civilization.
-    * **Lore:** Guarded by the gas giant Jupiter, Europa promises the thrill of deep-sea exploration like no other, beneath layers of ice and time.
+    * **Challenges:** Intense radiation from Jupiter, thick icy crust, and deep-sea exploration.
+    * **Unique Events:** Drill through the ice to explore the subsurface ocean, study its potential for harboring life, and navigate its challenging terrain.
+    * **Lore:** Europa, with its icy exterior and subsurface ocean, offers the promise of discoveries that could reshape our understanding of life beyond Earth.
 
-1. **Starting Resources:** Begin your expedition equipped with 15 skill points and a vault of 30 resource points.
+**Starting Resources:** Each team begins with 20 skill points and 40 resource points.
 
-2. **Game Paths:** The cosmic board unfolds a sequential series of milestones toward each celestial destination. Stick to the stars and trace your exclusive path according to your mission!
-
-3. **Event Types:**
-    * **Opportunity To Learn [BLUE]**: Stumble upon hidden galaxies of knowledge! These events gift you chances to amplify specific skills or acquire universal skill points. Beware! Some galaxies demand a tribute in resource points.
-    * **Resource Loss [RED]**: Galactic anomalies alert! Handle with expertise or lose valuable resources.
-    * **Resource Gain [GREEN]**: Discover abandoned alien treasures or master uncharted territories for resource boosts.
-    * **Unavoidable [YELLOW]**: Cosmic twists of fate! Fail the skill check, and you'll spiral back in time, retracing your steps based on a dice roll.
-    * **Black Events:** The void calls! Catastrophic events that threaten to obliterate your mission. Brace yourself; there's no escaping this one.
-
-4. **The S.P.A.C.E Skill System:**
-   * **S**cience: Solve scientific tasks and create technologies.
-   * **P**roblem Solving: Sovle different kinds of non-technical, unpredictable problems that might arise.
-   * **A**daptability: Morph according to alien environments and situations.
-   * **C**uriosity: Use the main human species' distinctive characteristic that brought us up until today's marvels of technology and opportunities and notice how enviroment can be used to achieve your goals.
-   * **E**ngineering: Build, repair, and innovate solutions on-the-go.
-
-   Challenges often summon a combination of these skills. Keep them balanced or specialize, but remember: the universe loves surprises!
-
-5. **Resource Points:**
-    * Resources are the lifeblood of your journey. Expend them wisely in challenges, trades, or unforeseen events.
-    * Be wise with assigning your points to skills at the start of the game - remember, you may be great scientist, but if in your team is emerging a conflict, ability to solve integrals quicker than your math teacher won't help to bring people closer together!
-    * Treasure troves abound in space. Keep your eyes open for opportunities to replenish.
-
-6. **End Goal:** Mark your name among the stars! Construct a colony that echoes through time, ensuring its prosperity and dominance in the vast expanse.
-
-7. **Game End:**
-    * Should you exhaust your resources in the abyss of space, your starry dreams crumble, urging a fresh start.
-    * Should you outsmart the universe's riddles and create a beacon of hope on your celestial sphere, the cosmos bows to you.
-    * The game concludes when all astronauts have either carved their legend or been swallowed by the void.
+**Game Paths:** Each celestial body has its unique path filled with challenges and opportunities. Navigate wisely!
 
 
-With knowledge, respect, and wisdom, create colonies and expand humanity's habibat further!
+**Event Types:**
+- **Opportunity To Learn [BLUE]:** Gain knowledge and skills to aid your mission.
+- **Resource Loss [RED]:** Face challenges that might deplete your resources.
+- **Resource Gain [GREEN]:** Discover opportunities to boost your resources.
+- **Unavoidable [YELLOW]:** Events that every player must face and cannot bypass.
+- **Black Events:** Major challenges that significantly impact your mission and make it return to Earth.
+
+
+**The S.P.A.C.E Skill System:**
+   * **S**cience: Solve scientific tasks and develop new technologies.
+   * **P**roblem Solving: Address interpersonal and unexpected challenges.
+   * **A**daptability: Adjust to new environments and situations.
+   * **C**uriosity: Explore and discover new opportunities.
+   * **E**ngineering: Build, repair, and innovate solutions.
+
+**Resource Points:** Essential for your journey. Use them wisely to overcome challenges and seize opportunities.
+
+**How the Game is Played**
+
+1. **Starting the Game:**
+    * Players sit around the game board and decide on their celestial path. The player choosing Mars or the one closest to Mars in a clockwise direction begins the game.
+    * Players then take turns in a clockwise order, ensuring a structured flow of the game.
+
+2. **Dice Roll Movement:**
+    * At the start of each player's turn, they roll a single six-sided dice to determine the number of spaces they move forward on their chosen celestial path.
+    * Players move their game piece according to the number rolled, landing on various event spaces that present challenges or opportunities.
+
+3. **Navigating Yellow Events:**
+    * Yellow events, marked as "Unavoidable," present significant challenges that players must face.
+    * If a player's skill level is insufficient to overcome a yellow event, they cannot bypass it. Instead, they must retreat and retrace their steps on the game path.
+    * Retreating allows players to re-encounter previous events, providing opportunities to gain additional skill points and better prepare for the yellow event challenge.
+    * Once players feel they have sufficiently increased their skills, they can attempt to tackle the yellow event again on their next approach.
+
+4. **Skill Level Advancement:**
+    * As players navigate the game path and face various challenges, they earn skill points that increase their proficiency in the five S.P.A.C.E skills.
+    * Each skill can be leveled up to a maximum of 10 points.
+    * If a player reaches the maximum level (10 points) in a particular skill and subsequently earns an additional point in that skill, they have the flexibility to assign that extra point to any other skill of their choice. This represents the transferability of knowledge and the adaptability of astronauts in space missions.
+
+**End Goal:** Establish a thriving colony that stands as a testament to human ingenuity and adaptability.
+
+**Game End:** The game concludes when all teams have either established their colonies or faced insurmountable challenges.
